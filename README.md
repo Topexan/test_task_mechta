@@ -4,7 +4,7 @@
 HTTP сервер для обработки базовых методов (CRUD) таблицы `city`.
 
 ## СУБД
-SQLite или PostgreSQL
+PostgreSQL
 
 ## Запуск
 go run test.go
